@@ -2,7 +2,7 @@
     "name": "macintosh-theme",
     "displayName": "Macintosh Theme",
     "description": "Old OS Design for Visual Studio Code",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.68.0"
     },
