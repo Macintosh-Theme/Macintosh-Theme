@@ -11,6 +11,17 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "Fun",
+        "Classic",
+        "Theme"
+    ],
+    "homepage": "https://github.com/Macintosh-Theme/Macintosh-Theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Macintosh-Theme/Macintosh-Theme"
+    },
+    "license": "MIT",
     "contributes": {
         "themes": [
             {
