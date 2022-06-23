@@ -6,7 +6,6 @@
 		}
 	},
 	"colors": {
-		// 전체적으로 적용되는 것
 		"focusBorder": "#000",
 		"icon.foreground": "#000",
 		"commandCenter.foreground": "#000",
@@ -15,21 +14,16 @@
 		"textLink.activeForeground": "#33a",
 		"descriptionForeground": "#333",
 		
-
-		// 설정
 		"settings.dropdownBorder": "#000",
 		
-		// 명령팔레트
 		"quickInput.background": "#c0c0c0",
 		"quickInput.foreground": "#000",
 		"quickInputList.focusBackground": "#00f",
 		"quickInputList.focusForeground": "#fff",
 		"quickInputList.focusIconForeground": "#fff",
 
-		// 단축키
 		"keybindingLabel.foreground": "#000",
 
-		// 버튼
 		"button.background": "#a0a0a0",
 		"button.border": "#000",
 		"button.foreground": "#000",
@@ -38,8 +32,6 @@
 		"button.secondaryForeground": "#000",
 		"button.secondaryHoverBackground": "#666",
 		
-
-		// 알림창
 		"notifications.background": "#b1b1b1",
 		"notifications.foreground": "#000",
 		"notificationCenter.border": "#000",
@@ -50,19 +42,16 @@
 		"notificationsInfoIcon.foreground": "#0000ff",
 		"notificationsWarningIcon.foreground": "#ffff00",
 
-		// 입력 창
 		"input.foreground": "#ddd",
 		"input.background": "#444",
 		"input.border": "#000",
 		"input.placeholderForeground": "#bbb",
 		"inputOption.activeBackground": "#000",
-		
-		// 창 이름
+
 		"titleBar.activeForeground": "#e9e9e9",
 		"titleBar.activeBackground": "#000078",
 		"menubar.selectionBackground": "#303090",
 
-		//탭
 		"tab.activeBackground": "#aeaeae",
 		"tab.inactiveBackground": "#007878",
 		"tab.activeForeground": "#000",
@@ -72,57 +61,46 @@
 		"editorGroupHeader.tabsBorder": "#000",
 		"editorGroup.border": "#000",
 		
-		// 내비게이터
 		"breadcrumb.background": "#c0c0c0",
 		"breadcrumb.foreground": "#000",
-		"editorGroupHeader.border": "#000",		// 텍스트 바꾸기 창 같은거
+		"editorGroupHeader.border": "#000",
 
-		// 에디터 화면
 		"editor.background": "#007878",
 		"editor.foreground": "#fff",
 		"editor.findMatchBackground": "#00f",
 		"editor.findMatchHighlightBackground": "#555",
 		"editor.selectionBackground": "#00f",
 		"editor.selectionForeground": "#fff",
-		"editorError.background": "#ff0000",
-		
-		
-		// 에디터창 오버레이
+		"editorError.background": "#ff0000",		
+
 		"editorWidget.background": "#066",
 		"editorWidget.border": "#066",
 		"editorWidget.foreground": "#ddd",
 
-		// 줄 번호
 		"editorLineNumber.foreground": "#000",
 
-		// 주피터 노트북
 		"notebook.focusedCellBackground": "#008080",
 		"notebook.cellBorderColor": "#444",
 		"notebook.cellEditorBackground": "#444",
 		"notebook.cellToolbarSeparator": "#000",
 		"notebook.focusedCellBorder": "#000",
 		
-		// readme
 		"textBlockQuote.background": "#006060",
 		"textBlockQuote.border": "#00f",
 		
-		// 터미널
 		"terminal.tab.activeBorder": "#fff",
 		"terminal.selectionBackground": "#aeaeae",
 		"dropdown.background": "#004848",
 		"panel.border": "#000",
 
-		// 문제
 		"panelSectionHeader.border": "#000",
 		"panelSection.border": "#000",
 
-		//가장 왼쪽
 		"activityBar.inactiveForeground": "#000",
 		"activityBar.background": "#aeaeae",
 		"activityBar.activeBackground": "#aeaeae",
 		"activityBar.border": "#000",
 
-		// 왼쪽 파일목록 그런거 떠있는데
 		"sideBarSectionHeader.border": "#000",
 		"sideBarTitle.foreground": "#444",
 		"sideBar.background": "#888",
@@ -130,9 +108,7 @@
 		"sideBar.border": "#000",
 		"sideBarSectionHeader.background": "#c0c0c0",
 		"sideBarSectionHeader.foreground": "#000",
-		
-		
-		//파일 목록
+
 		"list.hoverBackground": "#aeaeae",
 		"list.activeSelectionBackground": "#909090",
 		"list.inactiveFocusBackground": "#909090",
@@ -149,26 +125,20 @@
 		"list.filterMatchBackground": "#99f",
 		"list.filterMatchBorder": "#000",
 
-		// 확장
 		"extensionIcon.starForeground": "#ff0000",
 		
-
-		// 왼쪽 아래 구석
 		"activityBarBadge.background": "#c0c0c0",
 		"activityBarBadge.foreground": "#000",
 
-		// 그 옆에
 		"statusBar.background": "#c0c0c0",
 		"statusBar.foreground": "#000",
 
-		// 메뉴바
 		"menu.foreground": "#000",
 		"menu.background": "#c0c0c0",
 		"menu.selectionForeground": "#fff",
 		"menu.border": "#000",
 		"menu.separatorBackground": "#000",
-		"menu.selectionBackground": "#00a",
-		//"asdf": "#000"
+		"menu.selectionBackground": "#00a"
 	},
 	
 	"tokenColors": [
