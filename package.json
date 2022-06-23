@@ -1,6 +1,6 @@
 {
-    "name": "retrotheme",
-    "displayName": "RetroTheme",
+    "name": "macintosh-theme",
+    "displayName": "Macintosh-Theme",
     "description": "",
     "version": "0.0.1",
     "engines": {
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "retrotheme",
+                "label": "macintosh-theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/retrotheme-color-theme.json"
+                "path": "./themes/macintosh-color-theme.json"
             }
         ]
     }
