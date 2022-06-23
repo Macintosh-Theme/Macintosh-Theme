@@ -17,6 +17,11 @@
                 "label": "macintosh-theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/macintosh-color-theme.json"
+            },
+            {
+                "label": "mactheme",
+                "uiTheme": "vs",
+                "path": "./themes/mac-theme.json"
             }
         ]
     }
