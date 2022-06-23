@@ -6,6 +6,7 @@
 		}
 	},
 	"colors": {
+		"gitDecoration.ignoredResourceForeground": "#bbb",
 		"focusBorder": "#000",
 		"icon.foreground": "#000",
 		"commandCenter.foreground": "#000",
