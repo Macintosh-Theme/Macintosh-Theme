@@ -14,12 +14,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "macintosh-theme",
+                "label": "Window 90's Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/macintosh-color-theme.json"
             },
             {
-                "label": "mactheme",
+                "label": "Mac 90's Theme",
                 "uiTheme": "vs",
                 "path": "./themes/mac-theme.json"
             }
